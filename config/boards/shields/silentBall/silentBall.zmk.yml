@@ -1,0 +1,8 @@
+file_format: "1"
+id: silentBall
+name: Silent Ball
+type: shield
+url: https://codeberg.org/basilico-git/zmk-config-silentBall
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

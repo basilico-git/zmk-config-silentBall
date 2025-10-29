@@ -1,0 +1,4 @@
+if SILENTBALL
+config ZMK_KEYBOARD_NAME
+    default "Silent Ball"
+endif
